@@ -1,4 +1,3 @@
-Flask
 -f https://download.pytorch.org/whl/torch_stable.html                                                                                                                                                             
 torch==1.8.0+cpu
 -f https://download.pytorch.org/whl/torch_stable.html
@@ -6,4 +5,5 @@ torchvision==0.9.0+cpu
 numpy
 pandas
 matplotlib
+Flask
 Flask-Cors
